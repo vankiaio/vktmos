@@ -4,3 +4,9 @@
 [submodule "VKScatterDesktop"]
 	path = VKScatterDesktop
 	url = https://github.com/vankiaio/VKScatterDesktop.git
+[submodule "vkt-wifiprobe"]
+	path = vkt-wifiprobe
+	url = https://github.com/vankiaio/vkt-wifiprobe.git
+[submodule "qingzhu"]
+	path = qingzhu
+	url = https://github.com/vankiaio/qingzhu.git
