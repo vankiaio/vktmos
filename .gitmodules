@@ -10,3 +10,6 @@
 [submodule "qingzhu"]
 	path = qingzhu
 	url = https://github.com/vankiaio/qingzhu.git
+[submodule "vkt-voter"]
+	path = vkt-voter
+	url = https://github.com/vankiaio/vkt-voter.git
