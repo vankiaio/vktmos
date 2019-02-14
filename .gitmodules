@@ -13,3 +13,6 @@
 [submodule "vktdatav"]
 	path = vktdatav
 	url = https://github.com/vankiaio/vktdatav.git
+[submodule "eosio.contracts"]
+	path = eosio.contracts
+	url = https://github.com/vankiaio/eosio.contracts.git
